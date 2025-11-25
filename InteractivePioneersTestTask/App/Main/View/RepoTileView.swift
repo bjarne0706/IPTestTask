@@ -9,7 +9,7 @@ import SwiftUI
 
 struct RepoTileView: View {
 	let repo: GitHubRepo
-	@State private var image: Image?
+	
 	var body: some View {
 		VStack(alignment: .leading) {
 			
