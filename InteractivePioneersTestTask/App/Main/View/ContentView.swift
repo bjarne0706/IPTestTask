@@ -9,7 +9,7 @@ import SwiftUI
 
 struct AllReposView: View {
 	
-	private let username: String = "cs50" // Use "cs50" for 129 repos
+	private let username: String = "bjarne0706" // Use "cs50" for 129 repos
 	
 	@StateObject var viewModel = AllReposViewModel(AllReposModel())
 	
