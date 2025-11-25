@@ -11,7 +11,7 @@ import SwiftUI
 struct InteractivePioneersTestTaskApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            AllReposView()
         }
     }
 }
